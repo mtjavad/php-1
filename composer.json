@@ -16,6 +16,6 @@
     },
     "require": {
         "plasticbrain/php-flash-messages": "^1.0",
-        "nesbot/carbon": "^1.22"
+        "nesbot/carbon": "^2.72"
     }
 }
